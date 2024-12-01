@@ -34,4 +34,4 @@ de um Token válido, para que você possa utilizar nas suas próximas "consultas
 -  **JWT (JSON Web Token)**
 
 ## Badge de conclusão do Challenge ONE:
-![badge de conclusão do desafio](ChallengeForum/blob/main/src/assets-md/badge-spring.png)
+![badge de conclusão do desafio](src/assets-md/badge-spring.png)
