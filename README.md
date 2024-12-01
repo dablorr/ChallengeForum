@@ -16,7 +16,7 @@ O objetivo com este challenge é implementar uma API REST com as seguintes funci
 
 ## Utilização da Aplicação/API:
 
-- Utilize a ferramenta Postman ou Insomnia para interagir com a API
+- Utilize a ferramenta Postman ou Insomnia para interagir com a API 
 - Rode o arquivo "ForumHubApplication.java" 
 - Após isso, acesse "http://localhost:8080/login" para fazer uma requisição 
 de um Token válido, para que você possa utilizar nas suas próximas "consultas" da API
